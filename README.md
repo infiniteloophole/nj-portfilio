@@ -9,9 +9,9 @@ A modern personal portfolio website showcasing my work and skills.
 - Dark/light mode toggle
 
 ## 🚀 Installation
-```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+```bash[
+git clone https://github.com/yourusername/portfolio.git](https://github.com/infiniteloophole/nj-portfilio.git)
+cd nj-portfolio
 npm install
 npm start
 ```
