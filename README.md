@@ -11,7 +11,7 @@ A modern personal portfolio website showcasing my work and skills.
 ## 🚀 Installation
 ```bash[
 git clone https://github.com/yourusername/portfolio.git](https://github.com/infiniteloophole/nj-portfilio.git)
-cd nj-portfolio
+cd nj-portfilio
 npm install
 npm start
 ```
